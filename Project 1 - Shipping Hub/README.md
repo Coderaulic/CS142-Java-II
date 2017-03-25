@@ -2,7 +2,7 @@
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
 Edmonds Community College CS 142: Project 1 - Shipping Hub<br>
-Date:&emsp;&emsp;&emsp;&emsp;04/24/2013<br>
+Date:&emsp;&emsp;&emsp;&emsp;&nbsp;04/24/2013<br>
 Author:&emsp;&emsp;&emsp;
 Ryu Muthui<br>
 Description:&emsp;
