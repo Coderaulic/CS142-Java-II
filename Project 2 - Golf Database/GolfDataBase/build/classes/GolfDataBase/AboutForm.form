@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" value="Golf Data Base | About the Program"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="aboutJLabel" alignment="1" pref="0" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="226" max="-2" attributes="0"/>
+                      <Component id="closeJButton" min="-2" pref="115" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="titleJLabel" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="171" max="-2" attributes="0"/>
+              <Component id="titleImageJLabel" min="-2" pref="185" max="-2" attributes="0"/>
+              <EmptySpace pref="196" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Component id="titleJLabel" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="titleImageJLabel" pref="142" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="aboutJLabel" min="-2" pref="425" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="closeJButton" min="-2" pref="44" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="aboutJLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;HTML&gt; &#xa;About Golf Database: &lt;BR&gt;&lt;BR&gt;&#xa;This is a program to keep track of all the players on the golf team such as a College Golf Team.&#xa;Its primary purpose is to keep track of each player&apos;s First/Last Name, their contact email, phone number and their ranking within the golf team. &#xa;Currently the databse is set up to hold up to the top 9 members of the golf team. &lt;BR&gt;&lt;BR&gt;&#xa;&#xa;Features: &lt;BR&gt;&#xa;-Add: New members can be added via a separate form and each field is validated. The rank is unique and is automatically assigned to the next available rank.&lt;BR&gt;&#xa;-Edit/Update: Members can be edited and update the current members of the golf team. Rank is also automatically adjusted. This process can be cancel this process via the canel button from the file menu.&lt;BR&gt;&#xa;-Delete: Members of the team can be removed via this feature and the ranks are also automatically adjusted.&lt;BR&gt;&#xa;-Search: Members of the team can be searched via Last Name and First Name entry.&lt;BR&gt;&#xa;-Print: The form can be printed with the selected member&apos;s information.&lt;BR&gt;&#xa;-The program can also save the current members list when changes are made and or save the database as a new text file.&lt;BR&gt;&#xa;-The program can also load up another database via the Open New menu option.&lt;BR&gt;&#xa;&lt;BR&gt;&#xa;Authors: Ryu Muthui and Siqi Zhang &lt;BR&gt;&#xa;Version:1.01; Created 05/15/2013&lt;BR&gt;&#xa;Platform: PC, Windows 7, jdk:1.7.0_10, NetBeans IDE 7.3 &lt;BR&gt;&#xa;Copyright: M&amp;Z  Productions (2013)&lt;BR&gt;&#xa;&lt;/HTML&gt;&#xa;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="closeJButton">
+      <Properties>
+        <Property name="mnemonic" type="int" value="99"/>
+        <Property name="text" type="java.lang.String" value="Close"/>
+        <Property name="toolTipText" type="java.lang.String" value="Click to close the About form."/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="closeJButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="titleJLabel">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="99" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Vijaya" size="48" style="2"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Golf Database"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="titleImageJLabel">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/Resources/GolfDB_Title_Logo.png"/>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

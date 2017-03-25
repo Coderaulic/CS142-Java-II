@@ -1,0 +1,5 @@
+Bugs,Bunny,BugsBunny@gmail.com,206-111-1111,1
+Micky,Mouse,MickyMouse@yahoo.com,425-799-1482,2
+Doland,Duck,DonaldD@yahoo.com,206-559-3398,3
+Super,Man,SuperMan@gmail.com,206-425-4775,4
+The,Joker,JokerMan@hotmail.com,206-849-2592,5
