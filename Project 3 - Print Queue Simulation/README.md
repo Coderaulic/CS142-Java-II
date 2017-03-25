@@ -1,15 +1,15 @@
-# CS218 Project 1 - Gini's Quilt Works
+# CS142 Project 3 - Print Queue Simulation
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 218: Project 1 - Gini's Quilt Works<br>
-Date:&emsp;&emsp;&emsp;&emsp;
-10/16/2013<br>
-Author:&emsp;&emsp;&emsp;
-Ryu Muthui<br>
+Edmonds Community College CS 142: Project 3 - Print Queue Simulation<br>
+Date:&emsp;&emsp;&emsp;&emsp;&nbsp;06/07/2013<br>
+Authors:&emsp;&emsp;&emsp;Ryu Muthui and Siqi Zhang<br>
 Description:&emsp;
-A simple GUI invoice form to place orders and calculate total costs<br>
+A GUI program that simulates a printing queue<br>
 ===============================================================================<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![1](https://cloud.githubusercontent.com/assets/10789046/24258501/3d887738-0fab-11e7-9746-b39b8145ec3e.jpg)<br>
+![3_1](https://cloud.githubusercontent.com/assets/10789046/24318643/be28c0bc-10c5-11e7-89c4-4965a53b74eb.jpg)<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![2](https://cloud.githubusercontent.com/assets/10789046/24258504/3f4b10a8-0fab-11e7-8f51-43166d302bb8.jpg)<br>
+![3_2](https://cloud.githubusercontent.com/assets/10789046/24318644/c1b4d978-10c5-11e7-8656-79dab02025fe.jpg)<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![3_3](https://cloud.githubusercontent.com/assets/10789046/24318645/c45cde96-10c5-11e7-908c-68409f751be9.jpg)<br>
