@@ -1,7 +1,7 @@
 # Project 1 - Shipping Hub
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Project 1 - Shipping Hub<br>
+Shipping Hub<br>
 Date:&emsp;&emsp;&emsp;&emsp;&nbsp;04/24/2013<br>
 Author:&emsp;&emsp;&emsp;
 Ryu Muthui<br>
