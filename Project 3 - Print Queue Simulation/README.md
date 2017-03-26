@@ -1,4 +1,4 @@
-#Project 3 - Print Queue Simulation
+# Project 3 - Print Queue Simulation
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Print Queue Simulation<br>
 Date:&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;06/07/2013<br>
