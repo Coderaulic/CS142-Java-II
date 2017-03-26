@@ -2,7 +2,7 @@
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;Print Queue Simulation<br>
 Date:&emsp;&emsp;&emsp;&emsp;&nbsp;06/07/2013<br>
-Authors:&emsp;&emsp;&nbsp;Ryu Muthui and Siqi Zhang<br>
+Authors:&emsp;&emsp;&emsp;Ryu Muthui and Siqi Zhang<br>
 Description:&emsp;&nbsp;A GUI program that simulates a printing queue<br>
 ===============================================================================<br>
 ![3_1](https://cloud.githubusercontent.com/assets/10789046/24318643/be28c0bc-10c5-11e7-89c4-4965a53b74eb.jpg)<br>
