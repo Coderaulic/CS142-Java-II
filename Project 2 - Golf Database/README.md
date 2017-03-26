@@ -1,7 +1,7 @@
-# CS142 Project 2 - Golf Database
+# Project 2 - Golf Database
 ===============================================================================<br>
 Title:&emsp;&emsp;&emsp;&emsp;&nbsp;
-Edmonds Community College CS 142: Project 2 - Golf Database<br>
+Golf Database<br>
 Date:&emsp;&emsp;&emsp;&emsp;&nbsp;05/15/2013<br>
 Authors:&emsp;&emsp;&emsp;Ryu Muthui and Siqi Zhang<br>
 Description:&emsp;
